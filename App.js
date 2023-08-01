@@ -1,5 +1,8 @@
 // const a = React.createElement('h1', { "id": "heading" }, 'Hello World'); // three tags html tag object what contnent we needs to put inside it
 
+import React from './node_modules/react';
+import ReactDOM from './node_modules/react-dom'
+
 
 const b = React.createElement('h2', {
     "id": "hading2"
